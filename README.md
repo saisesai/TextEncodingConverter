@@ -1,6 +1,6 @@
 # TextEncodingConverter 文本编码转换
 
-### Require: python 3
+### Require: python 3 chardet
 
 ## How to use:
 
@@ -42,7 +42,7 @@ A new folder named "ConvertRst" will be created and the result file will be put 
 
 # 中文版：
 
-### 需求：python 3
+### 需求：python 3 chardet
 
 ## 使用方法：
 
